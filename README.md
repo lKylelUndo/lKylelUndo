@@ -22,7 +22,7 @@ Node.js, Express.js, PHP
 MySQL, PostgreSQL
 
 **Authentication**  
-JWT &nbsp;•&nbsp; OAuth
+JWT, OAuth
 
 </small>
 
