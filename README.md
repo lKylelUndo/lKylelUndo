@@ -13,13 +13,13 @@ I enjoy solving real-world problems and crafting clean, maintainable code with s
 <small>
 
 **Frontend**  
-React &nbsp;•&nbsp; TypeScript
+React, TypeScript, TailwindCSS, Bootstrap, DaisyUI
 
 **Backend**  
-Node.js &nbsp;•&nbsp; Express.js &nbsp;•&nbsp; PHP
+Node.js, Express.js, PHP
 
 **Databases**  
-MySQL &nbsp;•&nbsp; PostgreSQL
+MySQL, PostgreSQL
 
 **Authentication**  
 JWT &nbsp;•&nbsp; OAuth
