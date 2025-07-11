@@ -8,8 +8,11 @@ I enjoy solving real-world problems and creating clean, maintainable code with g
 ## 🚀 Tech Stack
 
 Frontend: React, TypeScript
+---
 Backend: Node.js, Express.js, PHP
+---
 Databases: MySQL, PostgreSQL
+---
 Auth: JWT, OAuth
 
 ---
