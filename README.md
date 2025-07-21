@@ -13,7 +13,7 @@ I enjoy solving real-world problems and crafting clean, maintainable code with s
 <small>
 
 **Frontend**  
-React, TypeScript, TailwindCSS, Bootstrap, DaisyUI
+React, TypeScript, TailwindCSS, Bootstrap, DaisyUI, Shadcn
 
 **Backend**  
 Node.js, Express.js, PHP
