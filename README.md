@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello, I'm Kyle Ando</h1>
 
-<p align="center"><sub><strong>Full-Stack Developer</strong> | Building scalable and efficient web applications</sub></p>
+<p align="center"><sub><strong>Software Developer</strong> | Building scalable and efficient web applications</sub></p>
 
 <p align="center"><small>
 I enjoy solving real-world problems and crafting clean, maintainable code with seamless user experiences.
