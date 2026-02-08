@@ -34,7 +34,7 @@ JWT
 
 - LinkedIn: [linkedin.com/in/kyleando](https://www.linkedin.com/in/kyle-ando-942947289/)  
 - Email: [ando.kyle44@gmail.com](mailto:ando.kyle44@gmail.com)  
-- GitHub: [github.com/kyleando](https://github.com/kyleando)
+- Facebook: [facebook.com/kyle.ando.505](https://www.facebook.com/kyle.ando.505)
 
 </small>
 
