@@ -16,7 +16,7 @@ Software Developer focused on building scalable, efficient web applications. I e
 
 **Version Control:** Git, GitHub
 
-**Practices:** API Versioning, Code Review, Design Patterns
+**Practices:** API Versioning, CI/CD, Code Review, Design Patterns
 
 ## Contact
 
