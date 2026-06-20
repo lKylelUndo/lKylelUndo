@@ -1,41 +1,25 @@
-<h1 align="center">👋 Hello, I'm Kyle Ando</h1>
+# Kyle Ando
 
-<p align="center"><sub><strong>Software Developer</strong> | Building scalable and efficient web applications</sub></p>
+Software Developer focused on building scalable, efficient web applications. I enjoy solving real-world problems and writing clean, maintainable code with a strong focus on user experience.
 
-<p align="center"><small>
-I enjoy solving real-world problems and crafting clean, maintainable code with seamless user experiences.
-</small></p>
+## Tech Stack
 
----
+**Frontend:** React, Nextjs, TypeScript, TailwindCSS, Bootstrap, DaisyUI, Shadcn/ui
 
-<h3>🚀 Tech Stack</h3>
+**Backend:** Node.js, Express.js, Laravel
 
-<small>
+**Databases:** MySQL, PostgreSQL
 
-**Frontend**  
-React, TypeScript, TailwindCSS, Bootstrap, DaisyUI, Shadcn
+**Authentication:** JWT
 
-**Backend**  
-Node.js, Express.js, PHP
+**DevOps & Deployment:** Docker, Netlify, Vercel, Render
 
-**Databases**  
-MySQL, PostgreSQL
+**Version Control:** Git, GitHub
 
-**Authentication**  
-JWT
+**Practices:** API Versioning, Code Review, Design Patterns
 
-</small>
+## Contact
 
----
-
-<h3>📫 Contact Me</h3>
-
-<small>
-
-- LinkedIn: [linkedin.com/in/kyleando](https://www.linkedin.com/in/kyle-ando-942947289/)  
-- Email: [ando.kyle44@gmail.com](mailto:ando.kyle44@gmail.com)  
+- LinkedIn: [linkedin.com/in/kyle-ando](https://www.linkedin.com/in/kyle-ando-942947289/)
+- Email: ando.kyle44@gmail.com
 - Facebook: [facebook.com/kyle.ando.505](https://www.facebook.com/kyle.ando.505)
-
-</small>
-
----
