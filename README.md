@@ -6,7 +6,7 @@ Software Developer focused on building scalable, efficient web applications. I e
 
 **Frontend:** React, Nextjs, TypeScript, TailwindCSS, Bootstrap, DaisyUI, Shadcn/ui
 
-**Backend:** Node.js, Express.js, Laravel
+**Backend:** Node.js, Express.js, Laravel, Redis
 
 **Databases:** MySQL, PostgreSQL
 
@@ -16,7 +16,11 @@ Software Developer focused on building scalable, efficient web applications. I e
 
 **Version Control:** Git, GitHub
 
-**Practices:** API Versioning, CI/CD, Code Review, Design Patterns
+**Practices:** API Versioning, CI/CD, Code Review, Design Patterns, Performance Optimization
+
+## Currently Exploring
+
+AI integrations in web applications — including LLM API usage, prompt engineering, and building AI-assisted features into existing products.
 
 ## Contact
 
