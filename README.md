@@ -10,7 +10,7 @@ Software Developer focused on building scalable, efficient web applications. I e
 
 **Databases:** MySQL, PostgreSQL
 
-**Authentication:** JWT
+**Authentication:** JWT, OAuth
 
 **DevOps & Deployment:** Docker, Netlify, Vercel, Render
 
