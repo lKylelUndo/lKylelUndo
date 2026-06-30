@@ -31,7 +31,7 @@ Software Developer focused on building scalable, efficient web applications. I e
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white)
 
 **Version Control:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
